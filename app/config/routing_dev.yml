@@ -1,0 +1,6 @@
+_welcome:
+    pattern:  /hello/{name}
+    defaults: { _controller: MandicTaskManagerBundle:Home:index }
+
+_main:
+    resource: routing.yml

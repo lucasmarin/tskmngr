@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: localhost
+    database_port: null
+    database_name: tskmngr
+    database_user: tskmngr
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: smtp.mandic.net.br
+    mailer_user: taskmanager@mandic.net.br
+    mailer_password: M@ndiCM@aiL
+    locale: pt_BR
+    secret: 95934bba85e0c8ee5a903228e0cc611c81e386be
+    database_path: null
